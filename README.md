@@ -4,15 +4,15 @@ The Random Forest model achieved strong predictive performance, demonstrating th
 
 Tools Used:
 - Python
-- Pandas & NumPy
+- Pandas and NumPy
 - Scikit-Learn
 - TensorFlow / Keras
-- Matplotlib & Seaborn
+- Matplotlib and Seaborn
 
 Techniques Applied:
 - Exploratory Data Analysis
 - Feature Engineering
 - Supervised Machine Learning
 - Deep Learning Forecasting
-- Model Evaluation & Visualisation
+- Model Evaluation and Visualisation
 This project shows how predictive analytics can support pricing strategies and market competitiveness in the automotive resale industry.
